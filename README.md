@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <a href="https://github.com/van-Art/Trouble-Temple">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=van-Art&repo=Trouble-Temple&theme=vue-dark">
+  <a href="https://github.com/van-Art/van-Art">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=van-Art&repo=van-Art&theme=vue-dark">
   </a>
 </p>
