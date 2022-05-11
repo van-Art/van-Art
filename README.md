@@ -46,7 +46,8 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/JaeSeoKim/badge42">
-    <img src="https://badge42.vercel.app/api/v2/cl2hu08a1003009jrwfa6lv8w/stats?cursusId=21&coalitionId=undefined" alt="vtorosya's 42 stats" /></a>
+    <img src="https://badge42.vercel.app/api/v2/cl2hu08a1003009jrwfa6lv8w/stats?cursusId=21&coalitionId=undefined" alt="vtorosya's 42 stats"/>
+  </a>
 </p>
 
 <p align="center">
