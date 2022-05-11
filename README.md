@@ -36,8 +36,6 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-* 42 Cursus Stats
-
 <p align="center">
   <a href="https://profile.intra.42.fr/users/vtorosya">
     <img src="https://badgen.net/badge/Born2Code/vtorosya/blue?cache=86400&icon=https://meta.intra.42.fr/images/42_logo.svg">
