@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/van-Art">
-    <img src="https://github-readme-stats.vercel.app/api?username=van-Art&count_private=true&show_icons=true&theme=blueberry">
+    <img src="https://github-readme-stats.vercel.app/api?username=van-Art&count_private=true&show_icons=true&theme=radical">
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/van-Art">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=van-Art&theme=blueberry">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=van-Art&theme=radical">
   </a>
 </p>
 
@@ -45,13 +45,13 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <a href="https://github.com/van-Art/Trouble-Temple">
+  <a href="https://github.com/van-Art/van-Art">
     <img src="https://badge42.vercel.app/api/v2/cl2hu08a1003009jrwfa6lv8w/stats?cursusId=21&coalitionId=undefined">
   </a> 
 </p>
 
 <p align="center">
-  <a href="https://github.com/van-Art/van-Art">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=van-Art&repo=van-Art&theme=vue-dark">
+  <a href="https://github.com/van-Art/42 Yereven Cursus">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=van-Art&repo=van-Art&theme=radical">
   </a>
 </p>
