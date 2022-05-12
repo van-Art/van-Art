@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Some Stats
+## Some Statistics
 
-* User Stats
+* User Statistics
 
 <p align="center">
   <a href="https://github.com/van-Art">
@@ -30,11 +30,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/van-Art">
-    <img src="https://raw.githubusercontent.com/madebypixel02/madebypixel02/output/github-contribution-grid-snake.svg">
-  </a>
-</p>
+* 42 Yerevan Statistics
 
 <p align="center">
   <a href="https://profile.intra.42.fr/users/vtorosya">
@@ -48,3 +44,9 @@ Here are some ideas to get you started:
      </a>
   </p>
   
+
+<p align="center">
+  <a href="https://github.com/van-Art">
+    <img src="https://raw.githubusercontent.com/madebypixel02/madebypixel02/output/github-contribution-grid-snake.svg">
+  </a>
+</p>
