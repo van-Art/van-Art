@@ -39,11 +39,10 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-   <a href="https://github.com/van-Art/42-Yerevan-Armenia">
+   <a href="https://profile.intra.42.fr/users/vtorosya">
      <img src = "https://badge42.vercel.app/api/v2/cl2hu08a1003009jrwfa6lv8w/stats?cursusId=21&coalitionId=undefined">
      </a>
   </p>
-  
 
 <p align="center">
   <a href="https://github.com/van-Art">
