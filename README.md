@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/van-Art">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=van-Art&theme=radical">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=van-Art&show_icons=true&locale=en&layout=compact&theme=radical">
   </a>
 </p>
 
