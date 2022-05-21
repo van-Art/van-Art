@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+<a href="https://www.instagram.com/van.art98/">
+  <img align="left" alt="van-Art's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+
+<a href="https://www.linkedin.com/in/vahramtorosyan21/">
+  <img align="left" alt="van-Art's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+</br>
+
 <!--
 **van-Art/van-Art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +24,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ## Some Statistics
 
 * User Statistics
