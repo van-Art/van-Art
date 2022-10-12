@@ -25,6 +25,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Skills
+
+<img align="left" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white/">
+<img align="left" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white/">
+
+</br>
+
 ## Some Statistics
 
 * User Statistics
