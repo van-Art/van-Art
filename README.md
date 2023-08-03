@@ -2,7 +2,7 @@
 - 🌱 I am a self-taught game developer with a great passion for games.
 - ⚡ I like playing & creating games.
 - 💬 You can find some game projects in my github page.<picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/white">
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
       <img aling="left" alt="GitHub" title="GitHub" width="22" src="https://cdn.simpleicons.org/github">
 </picture>
 
