@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there I'm Vahram.👋
+- 🌱 I am a self-taught game developer with a great passion for games.
+- ⚡ I like playing & creating games.
+- 💬 You can find some game projects in my github page.<picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
+      <img aling="left" alt="GitHub" title="GitHub" width="22" src="https://cdn.simpleicons.org/github">
+</picture>
+
+</br>
 
 <a href="https://www.instagram.com/van.art98/">
   <img align="left" alt="van-Art's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
@@ -42,14 +50,14 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/van-Art">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=van-Art&show_icons=true&locale=en&layout=compact&theme=radical">
+<div align="center">
+  <a href="[https://github.com/madebypixel02](https://github.com/van-Art)">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=van-Art&theme=radical">
   </a>
-</p>
+</div>
 
 <p align="center">
   <a href="https://github.com/van-Art">
-    <img src="https://raw.githubusercontent.com/madebypixel02/madebypixel02/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
   </a>
 </p>
