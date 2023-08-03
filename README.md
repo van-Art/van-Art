@@ -4,8 +4,8 @@
   <img align="left" alt="van-Art's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 
-<a href="https://www.linkedin.com/in/vahramtorosyan21/">
-  <img align="left" alt="van-Art's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="www.linkedin.com/in/vahramtorosyan21">
+  <img align="left" alt="van-Art's LinkedIn" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png" />
 </a>
 
 </br>
