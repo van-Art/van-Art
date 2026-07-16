@@ -12,14 +12,6 @@
 
 <table width="100%">
 <tr>
-<td width="42%" align="center" valign="middle">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="./assets/ascii-avatar-dark-v3.svg">
-<source media="(prefers-color-scheme: light)" srcset="./assets/ascii-avatar-light-v3.svg">
-<img src="./assets/ascii-avatar-dark-v3.svg" alt="Vahram Torosyan ASCII avatar" width="380">
-</picture>
-</td>
-<td width="58%" valign="middle">
 <pre>
 Role:                 Unity Developer / Game Developer
 Secondary Role:       Junior IT Project Manager
@@ -72,7 +64,7 @@ GitHub:               github.com/van-Art
 
 <p align="center">
   <img
-    width="48%"
+    width="40.5%"
     height="210"
     src="https://github-stats-extended.vercel.app/api?username=van-Art&show_icons=true&theme=tokyonight&hide_border=true&card_width=500"
     alt="GitHub Stats"
