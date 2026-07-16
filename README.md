@@ -10,44 +10,33 @@
 
 ---
 
-<table>
+<table width="100%">
   <tr>
-    <td width="100%" align="center" valign="bottom">
+    <td width="38%" align="center" valign="middle">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./assets/ascii-avatar-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="./assets/ascii-avatar-light.svg">
-        <img
-          src="./assets/ascii-avatar-dark.svg"
-          alt="Vahram Torosyan ASCII avatar"
-          width="420"
-        >
+        <source media="(prefers-color-scheme: dark)" srcset="./assets/ascii-avatar-dark.svg?v=5">
+        <source media="(prefers-color-scheme: light)" srcset="./assets/ascii-avatar-light.svg?v=5">
+        <img src="./assets/ascii-avatar-dark.svg?v=5" alt="Vahram Torosyan ASCII avatar" width="1000">
       </picture>
     </td>
-    <td width="1000%" valign="bottom">
-
-<pre>
-vahram@github
--------------------------
-Role:                 Unity Developer / Game Developer
-Secondary Role:       Junior IT Project Manager
-Location:             Armenia
-Engine:               Unity
-Languages.Code:       C#
-Tools.Dev:            Git, GitHub, VS Code, Jira, Confluence
-Tools.Productivity:   Notion, Miro, Figma
-Focus.GameDev:        Gameplay Systems, Level Design, UI, Prototyping
-Focus.PM:             Scrum, Planning, Documentation, Coordination
-Currently Learning:   Project Management, Product Thinking
-Interests:            2D/3D Games, Systems Design
-
-Contact
-Email:                vahram.torosyan01@gmail.com
-GitHub:               github.com/van-Art
-LinkedIn:             linkedin.com/in/YOUR_LINKEDIN
-Telegram:             t.me/YOUR_TELEGRAM
-</pre>
-
-</td>
+    <td width="62%" valign="middle">
+    <pre>
+    Role:                 Unity Developer / Game Developer
+    Secondary Role:       Junior IT Project Manager
+    Location:             Armenia
+    Engine:               Unity
+    Languages.Code:       C#
+    Tools.Dev:            Git, GitHub, VS Code, Jira
+    Tools.Productivity:   Notion, Miro, Figma
+    Focus.GameDev:        Gameplay Systems, Level Design, UI
+    Focus.PM:             Scrum, Planning, Documentation
+    Currently Learning:   Project Management
+    Interests:            2D/3D Games, Systems Design
+    Contact
+    Email:                vahram.torosyan01@gmail.com
+    GitHub:               github.com/van-Art
+    </pre>
+    </td>
   </tr>
 </table>
 
@@ -57,23 +46,23 @@ Telegram:             t.me/YOUR_TELEGRAM
 
 - 🎮 I develop 2D and 3D games in Unity
 - 🧠 I enjoy building gameplay systems, mechanics, and level flow
-- 📋 I also work with planning, documentation, and team coordination
-- 🚀 I am growing as both a game developer and a junior IT project manager
+- 📋 I work with planning, documentation, and team coordination
+- 🚀 I am growing as a game developer and junior IT project manager
 
 ---
 
 ## Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C Sharp" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
-  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white" alt="Miro" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C Sharp">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence">
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white" alt="Miro">
 </p>
 
 ---
@@ -82,17 +71,16 @@ Telegram:             t.me/YOUR_TELEGRAM
 
 <p align="center">
   <img
-    width="40.5%"
+    width="48%"
     height="210"
     src="https://github-stats-extended.vercel.app/api?username=van-Art&show_icons=true&theme=tokyonight&hide_border=true&card_width=500"
     alt="GitHub Stats"
-  />
-  <img
+  ><img
     width="48%"
     height="210"
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=van-Art&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&card_width=500"
     alt="Most Used Languages"
-  />
+  >
 </p>
 
 <p align="center">
@@ -101,7 +89,7 @@ Telegram:             t.me/YOUR_TELEGRAM
     height="210"
     src="https://streak-stats.demolab.com?user=van-Art&theme=tokyonight&hide_border=true&card_width=500&card_height=210"
     alt="GitHub Contribution Streak"
-  />
+  >
 </p>
 
 ---
@@ -111,7 +99,7 @@ Telegram:             t.me/YOUR_TELEGRAM
 - Building Unity game projects
 - Improving gameplay programming skills
 - Learning stronger project management practices
-- Growing a portfolio in game development and IT project management
+- Growing my game development and project management portfolio
 
 ---
 
@@ -128,8 +116,6 @@ Telegram:             t.me/YOUR_TELEGRAM
 
 ## Connect With Me
 
-<p>
-  <a href="https://github.com/van-Art">GitHub</a> •
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> •
-  <a href="https://t.me/YOUR_TELEGRAM">Telegram</a>
+<p align="center">
+  <a href="https://github.com/van-Art">GitHub</a>
 </p>
