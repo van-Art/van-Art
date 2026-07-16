@@ -10,7 +10,7 @@ from PIL import Image, ImageEnhance, ImageFilter, ImageOps
 from rembg import new_session, remove
 
 
-ASCII_PALETTE = " .:-=+*#%@"
+ASCII_PALETTE = " r""" .'`^",:;Il!i~+_-?][}{1)(|\/tfjrxnuvczXYUJCLQ0OZmwqpdbkhao*#MW&8%B@$""""
 ALPHA_THRESHOLD = 45
 DEFAULT_WIDTH = 64
 
@@ -136,10 +136,10 @@ def convert_to_ascii(image: Image.Image, width: int) -> list[str]:
 
 
 def save_svg(lines: list[str], output_path: Path, text_color: str) -> None:
-    font_size = 12
-    line_height = 13
-    character_width = 7.3
-    margin = 10
+    font_size = 9
+    line_height = 9.5
+    character_width = 5.3
+    margin = 4
 
     columns = max(len(line) for line in lines)
     width = round(columns * character_width + margin * 2)
@@ -209,7 +209,6 @@ def main() -> None:
     lines = convert_to_ascii(portrait, width)
 
     save_svg(lines, assets / "ascii-avatar-dark.svg", "#C9D1D9")
-    save_svg(lines, assets / "ascii-avatar-light.svg", "#24292F")
 
     print("Done.")
 
