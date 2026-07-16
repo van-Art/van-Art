@@ -209,7 +209,7 @@ def main() -> None:
     lines = convert_to_ascii(portrait, width)
 
     save_svg(lines, assets / "ascii-avatar-dark.svg", "#cfd6e6")
-    save_svg(lines, assets / "ascii-avatar-light.svg", "#3b4252")
+    save_svg(lines, assets / "ascii-avatar-light.svg", "#2f323b")
 
     print("Done.")
 
