@@ -11,33 +11,36 @@
 ---
 
 <table width="100%">
-  <tr>
-    <td width="38%" align="center" valign="middle">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./assets/ascii-avatar-dark.svg?v=5">
-        <source media="(prefers-color-scheme: light)" srcset="./assets/ascii-avatar-light.svg?v=5">
-        <img src="./assets/ascii-avatar-dark.svg?v=5" alt="Vahram Torosyan ASCII avatar" width="1000">
-      </picture>
-    </td>
-    <td width="62%" valign="middle">
-    <pre>
-    Role:                 Unity Developer / Game Developer
-    Secondary Role:       Junior IT Project Manager
-    Location:             Armenia
-    Engine:               Unity
-    Languages.Code:       C#
-    Tools.Dev:            Git, GitHub, VS Code, Jira
-    Tools.Productivity:   Notion, Miro, Figma
-    Focus.GameDev:        Gameplay Systems, Level Design, UI
-    Focus.PM:             Scrum, Planning, Documentation
-    Currently Learning:   Project Management
-    Interests:            2D/3D Games, Systems Design
-    Contact
-    Email:                vahram.torosyan01@gmail.com
-    GitHub:               github.com/van-Art
-    </pre>
-    </td>
-  </tr>
+<tr>
+<td width="42%" align="center" valign="middle">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="./assets/ascii-avatar-dark-v3.svg">
+<source media="(prefers-color-scheme: light)" srcset="./assets/ascii-avatar-light-v3.svg">
+<img src="./assets/ascii-avatar-dark-v3.svg" alt="Vahram Torosyan ASCII avatar" width="380">
+</picture>
+</td>
+<td width="58%" valign="middle">
+<pre>
+vahram@github
+-------------------------
+Role:                 Unity Developer / Game Developer
+Secondary Role:       Junior IT Project Manager
+Location:             Armenia
+Engine:               Unity
+Languages.Code:       C#
+Tools.Dev:            Git, GitHub, VS Code, Jira
+Tools.Productivity:   Notion, Miro, Figma
+Focus.GameDev:        Gameplay Systems, Level Design, UI
+Focus.PM:             Scrum, Planning, Documentation
+Currently Learning:   Project Management
+Interests:            2D/3D Games, Systems Design
+
+Contact
+Email:                vahram.torosyan01@gmail.com
+GitHub:               github.com/van-Art
+</pre>
+</td>
+</tr>
 </table>
 
 ---
