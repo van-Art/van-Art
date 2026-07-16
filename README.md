@@ -21,8 +21,6 @@
 </td>
 <td width="58%" valign="middle">
 <pre>
-vahram@github
--------------------------
 Role:                 Unity Developer / Game Developer
 Secondary Role:       Junior IT Project Manager
 Location:             Armenia
