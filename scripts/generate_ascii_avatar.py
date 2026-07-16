@@ -12,7 +12,7 @@ from rembg import new_session, remove
 
 # From light details to dark details.
 # More characters give smoother brightness transitions.
-ASCII_PALETTE = r""" .'`^",:;Il!i~+_-?][}{1)(|\/tfjrxnuvczXYUJCLQ0OZmwqpdbkhao*#MW&8%B@$"""
+ASCII_PALETTE = r"$@B%8&WM#*oahkbdpqwmZO0QLCJUYXzcvunxrjft/\|()1{}[]?-_+~<>i!lI;:,"^'."
 
 ALPHA_THRESHOLD = 80
 DEFAULT_ASCII_WIDTH = 88
