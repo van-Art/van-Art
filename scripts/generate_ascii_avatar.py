@@ -208,8 +208,8 @@ def main() -> None:
     print("Generating ASCII...")
     lines = convert_to_ascii(portrait, width)
 
-    save_svg(lines, assets / "ascii-avatar-dark.svg", "#d6dbe4")
-    save_svg(lines, assets / "ascii-avatar-light.svg", "#2f3542")
+    save_svg(lines, assets / "ascii-avatar-dark.svg", "#cfd6e6")
+    save_svg(lines, assets / "ascii-avatar-light.svg", "#3b4252")
 
     print("Done.")
 
