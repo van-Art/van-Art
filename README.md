@@ -26,7 +26,7 @@ Currently Learning:   Project Management
 Interests:            2D/3D Games, Systems Design
 
 Contact
-Email:                vahram.torosyan01@gmail.com
+Email:                vahram.torosyan.m@gmail.com
 GitHub:               github.com/van-Art
 </pre>
 </td>
